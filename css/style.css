@@ -339,14 +339,17 @@ span.title {
 
 #about .title {
     top: 65% !important;
+    color: white;
 }
 
 #skills .title {
     top: 90% !important;
+    color: white;
 }
 
 #contact .title {
     top: 65% !important;
+    color: white;
 }
 
 #blogs .title {
@@ -496,7 +499,7 @@ button {
 }
 
 #intro h2 {
-    color: var(--grey);
+    color: rgb(172, 172, 172);
     font-size: 1.2rem;
     font-weight: 400;
     letter-spacing: 1.5px;
